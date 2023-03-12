@@ -29,7 +29,16 @@ Este es un programa que utiliza la biblioteca base64 para obfuscar código Pytho
 * Selecciona el archivo que deseas obfuscar haciendo clic en el botón "Seleccionar Archivo".
 * Anaaza Obfuscator generará un nuevo archivo con el mismo nombre que el archivo original, pero con la extensión "_obfuscated.py". El contenido de este archivo estará obfusado.
 <br><br>
+-----
+### <p align="center">🎱 Requisitos 🎱</p>
+<p align="center"><strong><i>Anaaza Obfuscator se ejecuta en Python 3. Se requieren los siguientes paquetes de Python:</i></strong</p>
 
+<br><br>
+* PyQt5.
+* base64.
+* random.
+* string.
+<br><br>
 -----
 ### <p align="center">⛓ Interfaz ⛓</p>
 <br><br><br>
